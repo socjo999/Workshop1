@@ -1,0 +1,11 @@
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\obj\Debug\netcoreapp2.1\Workshop1.csprojAssemblyReference.cache
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\obj\Debug\netcoreapp2.1\Workshop1.csproj.CoreCompileInputs.cache
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\obj\Debug\netcoreapp2.1\Workshop1.AssemblyInfoInputs.cache
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\obj\Debug\netcoreapp2.1\Workshop1.AssemblyInfo.cs
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\bin\Debug\netcoreapp2.1\Workshop1.deps.json
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\bin\Debug\netcoreapp2.1\Workshop1.runtimeconfig.json
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\bin\Debug\netcoreapp2.1\Workshop1.runtimeconfig.dev.json
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\bin\Debug\netcoreapp2.1\Workshop1.dll
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\bin\Debug\netcoreapp2.1\Workshop1.pdb
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\obj\Debug\netcoreapp2.1\Workshop1.dll
+D:\CodeLAB\Workshop1\Workshop1\Workshop1\obj\Debug\netcoreapp2.1\Workshop1.pdb
